@@ -1,4 +1,4 @@
-<h1> DIO - Code Challenges 👨‍💻​ </h1>
+<h1> DIO - Lógica de Programção - Code Challenges 👨‍💻​ </h1>
 <p>A plataforma DIO propôs alguns desafios para aperfeiçoarmos nossa lógica de programação como parte da "Formação Lógica de Programação".</p>
 <p> Neste repositório estarão contidos todos os códigos dos respecitivos desafios proposto para fins de estudo e portifólio sobre minha progressão em Lógica de Programação.</p>
 <p>Deixarei registrado logo abaixo os desafios propostos com o enunciado de cada um deles juntamente com as regras de entrada e saída de dados que  o algoritmo deve obedecer</p>

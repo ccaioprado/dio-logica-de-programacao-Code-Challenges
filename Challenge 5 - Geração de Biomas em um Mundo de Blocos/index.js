@@ -28,5 +28,5 @@ for (let i = 1; i <= quantidadeGolpes; i++) {
   let minaIndex = i % minerais.length;
   
   // TODO: Agora exiba o índice i, concatene com o caractere ":", após, concatene com tipo de minerais[minaIndex]:
-  print(i + ": " + minerais[i-1]);
+  print(i + ": " + minerais[minaIndex]);
 }
